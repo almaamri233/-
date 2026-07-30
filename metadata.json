@@ -1,0 +1,8 @@
+{
+  "name": "Remix OmniFlow AI - Unified Social Automation Platform",
+  "description": " اتمتة جميع منصات التواصل الاجتماعي في منصة واحدة الردود التلقائية على التعليقات ورسائل خاصة \nAll-in-one social media automation, InstantDM comment triggers, Meta Business Suite inbox, and Make.com-style visual workflow builder with Google AdSense monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
